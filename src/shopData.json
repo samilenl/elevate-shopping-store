@@ -1,0 +1,1060 @@
+{
+  "furniture": {
+    "chairs": [
+      {
+        "id": "c84b1552-d9da-48cd-b835-2df7b3e2279c",
+        "name": "Cianca 61'' Vegan Leather Loveseat",
+        "price": "$379.99",
+        "img": "/assets/images/Cianca+61''+Vegan+Leather+Loveseat.webp",
+        "description": "Place this stylish loveseat on its own in a smaller space, or add a matching sofa and armchair for a complete living room set. Either way, you'll be sure to enjoy its soft, soothing comfort and elegant appeal. It features smooth, leather-like upholstery. Available in multiple finishes, it pleasingly plays up any room's color motif. Sturdy, tapered legs bolster its durable frame, offering maximum support.\nWhat's Included?\nToss Pillow\nFeatures\nModern & Impressive: This loveseat’s leather design is both modern and impressive, making it a popular item in any home or living space if the wow factor is what you are looking for.\nComfortable and versatile: With deep, firm cushions that respond to your body shape, this loveseat gives you plenty of options for unwinding after a long day.\nLong-lasting and resilient: The high-quality leather is resilient and offers a robust and supportive wood frame and legs for support.\nEasy Clean: This leather sofa offers removable cushions and covers that can be easily wiped down if you have any spills.\nEasy assembly: This product will be delivered in 2 boxes with instructions for easy assembly."
+      },
+      {
+        "id": "ce8de54d-e227-4f42-a393-0daf32e662f4",
+        "name": "Bolanle Upholstered Armchair",
+        "price": "$199.99",
+        "img": "/assets/images/Bolanle+Upholstered+Armchair.webp",
+        "description": "With eye-catching curves, this chair is the ideal combination of style and comfort. The elegant and delicate upholstery offers a rich, luxurious appeal, making the decoration equally perfect in the living room, dining room, or home office. Soft and durable skin-friendly fabric cover, wood frame matches the high-density foam, solid wood legs and universal foot stops with a black finish, which ensures you can rest comfortably for long hours."
+      },
+      {
+        "id": "14143ec0-2b37-4327-bdee-055e1c2552c3",
+        "name": "Waterville Upholstered Barrel Chair",
+        "price": "$145.99",
+        "img": "/assets/images/Waterville+Upholstered+Barrel+Chair.webp",
+        "description": "This barrel chair and ottoman set create a cozy reading nook with a classic style. It's made with an engineered wood frame that sits on plastic block legs in a black hue. The chair features a rounded back that curves around the sides to act as arms, wrapping you up. Filled with foam, the seat is made with sinuous springs for extra support. We love that both the armchair and the ottoman are upholstered with traditional, subtle button tufting. It has a weight capacity of 300 pounds."
+      },
+      {
+        "id": "e553a3c1-636b-415e-9137-68183c1db661",
+        "name": "Everard 26'' W Soft Rattan Weaving Upholstered Armchair with Solid Wood Legs",
+        "price": "$128.99",
+        "img": "/assets/images/Everard+26''+W+Soft+Rattan+Weaving+Upholstered+Armchair+with+Solid+Wood+Legs.webp",
+        "description": "Drawing on the elegance and attitude of mid-century design, it has a simplified profile with soft curves and rounded square arms. Founded atop a solid wood frame, it is upholstered in a neutral, textured fabric, and filled with foam for comfort. You can use the chair as a piece of versatile furniture by moving around your home as needed, including the living room, study room, balcony, etc."
+      },
+      {
+        "id": "7c8651de-7a96-47ef-b01a-f6242f18fd67",
+        "name": "Daulton Upholstered Side Chair",
+        "price": "$96.65",
+        "img": "/assets/images/Daulton+Upholstered+Side+Chair.webp",
+        "description": "This chair classic-style accent chair with pleated details is the perfect pick for a small space. Whether drawn up to your dining table or rounding out your living room with an extra seat, a small side chair like this is a great option wherever you need it. Made with premium velvet fabric, comfortable for the skin's touch."
+      },
+      {
+        "id": "aaff3a87-e227-464a-9056-397703a8c30b",
+        "name": "Jaqueze Upholstered Armchair",
+        "price": "$199.99",
+        "img": "/assets/images/Jaqueze+Upholstered+Armchair.webp",
+        "description": "The cushion and backrest of this armchair are made of high-density and high-resilient native foam, which can provide maximum comfort for you. Soft linen fabric foam padded cushions with enough width and depth to give you hours of comfortable sitting without sacrificing fashion and style. The armrests and frame are made of solid wood, there is no peculiar smell, and no color difference and the accent chairs for the living room are so sturdy that can hold up to 440 pounds (static load capacity). The cushion's fabric is not easy to pill and looks new even after long-term use. This living room chair comes in handy when you require a piece of functional and stylish furniture. The linen fabric covering adds a touch of texture to the couch chair and the concise back and integrated arms complete its contemporary-traditional look. The accent fabric chair is a perfect addition to the living room to get more relaxed while reading or playing games. You can not only sit on it to drink coffee, watch movies, play games, read books, and chat with friends but also can be used as office furniture in the office for business negotiations."
+      },
+      {
+        "id": "cbda7d7a-642e-49ac-921c-cc5a4a94ce41",
+        "name": "Upholstered Sectional",
+        "price": "$700.00",
+        "img": "/assets/images/Upholstered+Sectional.webp",
+        "description": "This ultimate Sectional piece provides you and your family a infinite joy while staying at home, especially saves space for apartments and condoes."
+      },
+      {
+        "id": "a4ab45cb-8e9a-4399-8ecd-236e9fbafba7",
+        "name": "Pizarro Box Cushion Armchair Slipcover",
+        "price": "$50.00",
+        "img": "/assets/images/Pizarro+Box+Cushion+Armchair+Slipcover.webp",
+        "description": "Refresh and redecorate in a snap with this product. With impeccable versatility, our stretch slipcover is sleek and ultra-soft. The subtle geometric design, in a slightly raised grid pattern, is designed to minimize tucking, fits various types of armchairs, and adds cozy texture. We use all-around elastic edges to ensure the slipcover can stay in place without sliding and reduce the difficulty of removing. This favorite fabric is available in our greatest array of colors to accommodate any decorating style. Besides, it is machine washable, has low-temperature drying, and is friendly for pets and children. Give an update to tired furniture and stay on budget with this slipcover."
+      },
+      {
+        "id": "38056983-3ee1-45fe-9665-8c7191673d6b",
+        "name": "3 - Piece Living Room Set",
+        "price": "$799.99",
+        "img": "/assets/images/3+-+Piece+Living+Room+Set.webp",
+        "description": "The cushion and backrest of this armchair are made of high-density and high-resilient native foam, which can provide maximum comfort for you. Soft linen fabric foam padded cushions with enough width and depth to give you hours of comfortable sitting without sacrificing fashion and style. The armrests and frame are made of solid wood, there is no peculiar smell, and no color difference, and the accent chairs for the living room are so sturdy that they can hold up to 440 pounds (static load capacity). This mid-century modern couch lights up your whole home with modern craftsmanship and classic aesthetics. Stylish tufted linen upholstery with a mid-century low-profile design, adds more features to your living room. If you require a perfect small space solution for your home or stylish and functional furniture for your apartment, our love seat is the ideal choice for your needs. This loveseat sofa will be a favorite spot for leisure in your home. It is 62.97 inches wide and spacious enough for 2 people."
+      },
+      {
+        "id": "a76a893d-095b-435f-a939-3663f873e202",
+        "name": "Big Joe Milano Super Soft Bean Bag Chair",
+        "price": "$115.99",
+        "img": "/assets/images/Big+Joe+Milano+Super+Soft+Bean+Bag+Chair.webp",
+        "description": "Whatever your style is, Big Joe has you covered with the structured Milano bean bag chair. With a variety of different colors to choose from, the Milano is sure to fit your needs for comfort and style! Can you imagine this piece in your den, dorm room, or living room with a blanket and a coffee in hand? Us too!"
+      }
+    ],
+    "table": [
+      {
+        "id": "7c31551f-d7e6-42a6-9777-2c5afbca92cc",
+        "name": "Geneiveve 63\" Butterfly Leaf Pedestal Dining Table",
+        "price": "$599.99",
+        "img": "/assets/images/Geneiveve+63_+Butterfly+Leaf+Pedestal+Dining+Table.webp",
+        "description": "Modern design Table looks great to match chair, you can Enjoy a cozy meal time with your family. The table can be extended from 62.9'' to 78.7'' when you take out the extension leaf in the middle. Dining room table is proudly constructed from thicker high-grade MDF& HPL board, which is not only beautiful and strong but also easy to clean and maintain. The table top has enough hardness and the featuring a 1.57-inch thickness, The metal frame with carbon steel Legs for superior durability and strength."
+      },
+      {
+        "id": "40abaf43-364f-40c3-9902-ea03247914a3",
+        "name": "Astor 64\" Dining Table",
+        "price": "$250",
+        "img": "/assets/images/Astor+64_+Dining+Table.webp",
+        "description": "The CosmoLiving Astor Dining Table turns dinner time into a full-on Instagram foodie photoshoot. Crafted with a bold rectangular shape, this fierce piece has a stunning, faux marble top that looks too good to be true. Your kitchen and dining room will get a much-needed glow-up with its symmetrical, strong metal trestle base. Not just for your kitchen, this gorg table will perfect your home office as well. Create a workspace for your computer and desk essentials that’ll have you feeling like a boss while you hustle throughout the day. Designed with a sturdy construction, no matter where you put the Astor Dining Table, it’ll werk its long-lasting magic in your home. Available in a variety of faux marble tabletop and base finishes for any aesthetic."
+      },
+      {
+        "id": "a5fbedec-a367-4f3f-bcb8-45fec5d6c8f9",
+        "name": "Leatherwood Metal Outdoor Bistro Table",
+        "price": "$100",
+        "img": "/assets/images/Leatherwood+Metal+Outdoor+Bistro+Table.webp",
+        "description": "Durable strong legs and top and frame make it rustproof, weather-proof for outdoor. Bring you years of enjoyment.\nClassic cross-weave style combined with heavy-duty construction work to create a classic, long-lasting, furniture piece. Adjustable levelling feet so you can be sure your table is stable.\nSit around the table and enjoy morning coffee or a have a nice conversation outside on the balcony, front porch, or deck\nQuickly assemble so you can enjoy it in no time, all hardware required is included for assembly, also coming with a detailed step-by-step instruction manual. Exquisite craft with anti-rust powder coated surface reflects high quality, easy to maintain and clean."
+      },
+      {
+        "id": "fa3edc0f-c596-4289-aa2f-2e7d777eb616",
+        "name": "Legolas Acacia Fliptop Outdoor Bistro Table",
+        "price": "$120.00",
+        "img": "/assets/images/Legolas+Acacia+Fliptop+Outdoor+Bistro+Table.webp",
+        "description": "Our beautifully crafted Legolas wooden folding table creates a warm and inviting outdoor bistro table atmosphere in your backyard oasis.\n"
+      },
+      {
+        "id": "356253e1-2234-4377-ac87-ce551ab5378b",
+        "name": "L-Shape Desk",
+        "price": "$132.99",
+        "img": "/assets/images/L-Shape+Desk.webp",
+        "description": "This L-shaped corner desk with 66\"W x 47\"W；59\"W x 47\"W；50\"W x 41\"W desktops ensure your conversions around with ease while working/gaming. This corner gaming desk is up to 29\" H, with the optimal legroom, convenient for sitting and storage, which is also very friendly. Modern simple style computer table has a design-like appearance, will be a beautiful décor for your home. Modern office desk is suitable for study room, bedroom, living room, game room, office.The l desk is especially easy to clean. Stains, food residues, watermarks or dust could be removed easily by gently wiping with a towel."
+      },
+      {
+        "id": "82f97b94-e9b2-4465-a1ca-7c58c18e0dbc",
+        "name": "Desk",
+        "price": "$73.99",
+        "img": "/assets/images/Desk.webp",
+        "description": "Computer writing desk, school student desk, home office desk for small space, study kids desk with headphone hook."
+      },
+      {
+        "id": "de44707d-ae65-4299-b4e0-833eff59fbed",
+        "name": "Home Office Computer Writing Desk with 3 Drawers, 1 Door and 1 Storage Shelf, Plenty of Space, Wood",
+        "price": "$299.99",
+        "img": "/assets/images/Home+Office+Computer+Writing+Desk+with+3+Drawers,+1+Door+and+1+Storage+Shelf,+Plenty+of+Space,+Wood.webp",
+        "description": "Designed to suit any home office, bedroom, or anywhere you need a compact option for getting some work done on the computer, reading, writing, and more, the Madesa Computer Desk has ample space for your electronic devices and all of your supplies.\n"
+      },
+      {
+        "id": "839a8c43-504a-40d9-9339-4b43e66ad560",
+        "name": "Kearria 47.2'' Console Table",
+        "price": "$108.99",
+        "img": "/assets/images/Kearria+47.2''+Console+Table.webp",
+        "description": "Our industrial console table is in retro style, bringing more life to your home. This rustic console table with a sturdy iron frame was designed and manufactured with care and attention to detail and can hold your picture frames, globe, storage baskets, books, vases, plants, or other small items without you having to worry about them falling off. You can also equip your room with other products and you will be pleasantly surprised at how versatile the console table is."
+      },
+      {
+        "id": "5f8cd3fb-a194-47f8-910e-e008f2a95cfb",
+        "name": "70.86'' Console Table",
+        "price": "$223.99",
+        "img": "/assets/images/70.86''+Console+Table.webp",
+        "description": "5-Tier open shelves can store various items, such as potted plants, storage baskets, etc. Our sofa table could be used as a console table, entryway table, hallway table, etc.\n"
+      },
+      {
+        "id": "7b13ca68-3ad7-4663-a52b-a74bc31871be",
+        "name": "Vikesha Solid Wood Dining Table",
+        "price": "$359.99",
+        "img": "/assets/images/Vikesha+Solid+Wood+Dining+Table.webp",
+        "description": "No outdoor dining area is complete without the perfect place to sit down and enjoy a meal with your family and friends. This Solid Wood Dining Table embodies an industrial yet contemporary aesthetic that will complement any existing collection with class. Notable features include mid-century-inspired hairpin legs, a solid acacia wood surface, and rugged, rustic live edges. It is suitable for both indoor and outdoor use."
+      }
+    ],
+    "other": [
+      {
+        "id": "da54aac5-3a7b-4830-af48-78a304e22819",
+        "name": "Landrienne Bookcase",
+        "price": "$74.59",
+        "img": "/assets/images/Landrienne+Bookcase.webp",
+        "description": "It is easy to keep clutter more organized and make your home office tidier with this 4-tier bookcase. Thanks to the clean-lined, open-shelf design and iron frame, this bookcase looks less cumbersome and is more lightweight to move. The open-back panel design allows you to display items in all directions and also makes them easily accessible."
+      },
+      {
+        "id": "26ece08e-06f9-49c2-b834-d4ec3445b24c",
+        "name": "Plant Stand",
+        "price": "$45.63",
+        "img": "/assets/images/Plant+Stand.webp",
+        "description": "Give your blooming flowers a perfect placement! This bamboo rack in a specially shaped design gives you a strike in view and adds a personalized fresh look to your yard. The surface in the water-proof coating finish makes it easy-clean and durable, perfectly solving the problems when you water your plants. This irregular six-layer rack shows its excellent ability to store and is multifunctional as a bookshelf or a display rack in your home. Try to decorate your home with our beautiful and practical rack."
+      },
+      {
+        "id": "6be724b0-4b51-4a2f-ad9c-4badbba0a5d5",
+        "name": "34.7'' Steel Standard Baker's Rack with Microwave Compatibility",
+        "price": "$121.99",
+        "img": "/assets/images/34.7''+Steel+Standard+Baker's+Rack+with+Microwave+Compatibility.webp",
+        "description": "An excellent solution to keep your kitchen in order. It takes up little space and fits into any room, keeping your kitchen groceries organized. In addition, you can also use your microwave, or electric oven on the tabletop through the equipped power outlet. This multipurpose kitchen rack can greatly enhance your cooking experience. Vintage wood grain adds an antique flair and is easy to clean while a sturdy metal frame stands the time."
+      },
+      {
+        "id": "65ebdb73-af95-4f41-abe9-2676df0428c6",
+        "name": "9 Pair Stackable Shoe Rack",
+        "price": "$45.23",
+        "img": "/assets/images/9+Pair+Stackable+Shoe+Rack.webp",
+        "description": "Ideal for busy mudrooms and garages, this shoe storage rack offers a convenient, cost-effective solution for organizing your growing collection of footwear. Four tiers hold up to twelve pairs of shoes, while a stackable design lets you take your home org to new heights. It is recommended that you only stack one additional unit atop the original. Consider a larger option if you’re looking to store large shoes men’s size 13 or over. Check out that you might also need a section for an alternative."
+      },
+      {
+        "id": "7a725fda-c90e-44c8-b83e-e2097d3788f6",
+        "name": "Aubree 47.24'' Closet System",
+        "price": "$192.99",
+        "img": "/assets/images/Aubree+47.24''+Closet+System.webp",
+        "description": "This freestanding closet system adds simple and chic storage to any room or wardrobe that needs organization. Its openwork, minimalist frame is crafted from metal in neutral hue, and it measures about 7' high, 4' wide, and nearly 1.5' deep. The design features a large compartment with a bar for hanging clothes as well as three wider shelves ideal for shoes, purchase, or stacks of sweaters. We love that the left side also has a tower of three square shelves for even more space for accessories and maybe some closet decor too. Our favorite? It doesn't attach to the wall, so it's great for renters."
+      },
+      {
+        "id": "3885e268-e472-4f71-84f2-da16bb6996ce",
+        "name": "Merissa 47\" W Freestanding Closet System",
+        "price": "$189.99",
+        "img": "/assets/images/Merissa+47_+W+Freestanding+Closet+System.webp",
+        "description": "The Merissa 47\" W Closet System is perfect for clothes and shoes in cramped closets. The frame ensures the sturdy and durable, sure, without wobble and collapse. It's ideal for any place in your home without taking up too much space with a lot of storage room. Or as a commercial-grade garment rack in a clothing store.\n"
+      },
+      {
+        "id": "4c2f24a8-2b1f-41c8-886c-1a6a4c6abd45",
+        "name": "Alisiya Steel Freestanding Over-the-Toilet Storage",
+        "price": "$72.00",
+        "img": "/assets/images/Alisiya+Steel+Freestanding+Over-the-Toilet+Storage.webp",
+        "description": "This free-standing over-the-toilet shelf brings spare storage space to your bathroom or powder room. This piece includes three exposed shelves, offering a place for spare products, hand towels, and decor items. It's made from steel with a bronze finish, and it features diamond-shaped openwork up top for a decorative touch. With its space-saving design, it's the ideal solution for smaller bathrooms with limited floor space. This vertically oriented unit measures 65\" high and 23\" wide, working well with most standard toilets."
+      },
+      {
+        "id": "6366b127-09d2-41aa-aa66-72e3e4c4fba3",
+        "name": "Premium Wood Shelving",
+        "price": "$81.02",
+        "img": "/assets/images/Premium+Wood+Shelving.webp",
+        "description": "Easily add hanging organization with the ClosetMaid Premium Hang Rod, Hang Rod Support Hook, and Pole Cup (sold separately)\n100% solid wood ventilated shelving for a stylish look with increased airflow"
+      },
+      {
+        "id": "46bc7e15-c77c-40db-9135-6b188cde9226",
+        "name": "Superior Wicker Basket",
+        "price": "$55.99",
+        "img": "/assets/images/Superior+Wicker+Basket.webp",
+        "description": "Add a dash of natural beauty within your light-toned living spaces as you place your clean laundry and pillows on this multi-purpose wicker basket. This item ships in 1 carton. Due to the handmade nature of these, there will be slight color, shape, and size variations, as well as loose fibers. Suitable for indoor use only. This item ships fully assembled in one piece. Maximum weight limit is 5 lbs. Made in Vietnam. This is a single brown colored basket organizer. Contemporary style."
+      },
+      {
+        "id": "d7507591-4f53-46b0-8525-8a9386da5d03",
+        "name": "Kilwin 2 - Person Dining Set (Set of 3)",
+        "price": "$188.99",
+        "img": "/assets/images/Kilwin+2+-+Person+Dining+Set.webp",
+        "description": "This 3-piece dining set elevates your space with a minimalist, modern aesthetic. It includes one modest-sized dining table and two dining side chairs, all with frames made from steel and engineered wood surfaces. The table design features an hourglass base with straight, angled lines, supporting the circular top with a faux marble finish. We love that chair construction has a pared-down ladder back that has a breezy look and feel. his set is resistant to scratches, stains, and water for holding up to everyday use."
+      }
+    ]
+  },
+  "clothing": {
+    "men": [
+      {
+        "id": "315f3abb-5344-483c-abce-0c3a835afedb",
+        "name": "FLYDAY Fresh Ribbed Collar Knit",
+        "price": "$59.99",
+        "img": "/assets/images/0af1287723ea02aa5539fa3105688e15bb550c17.jpg",
+        "color": ["Beige", "Brown", "Black", "Khaki", "White"],
+        "size": ["M(95)", "L(100)"]
+      },
+      {
+        "id": "cb2fcaf5-95ca-4789-b3b2-3c52041d771d",
+        "name": "FLYDAY Mento Cotton Slacks",
+        "price": "$73.59",
+        "img": "/assets/images/04c79028fcabfb454f473c86cf640ae525348dd3.jpg",
+        "color": ["Grey", "Black", "Ivory", "Oatmeal", "White"],
+        "size": ["48", "50", "52", "54"]
+      },
+      {
+        "id": "4b03cabc-b905-43b1-8f33-113e50f9df5c",
+        "name": "FLYDAY Ready Soft V Neck Vest",
+        "price": "$50.39",
+        "img": "/assets/images/bd6f541537d613d926d2137ead4b34ac5f04612d.jpg",
+        "color": ["Cream", "Green", "Navy", "Black", "Light Gray"],
+        "size": ["One Size"]
+      },
+      {
+        "id": "c4b257d1-7872-451d-80df-42deade38859",
+        "name": "FLYDAY Hot Half Banding Slacks",
+        "price": "$58.99",
+        "img": "/assets/images/04cd5ac5740ffd8dc44fff6b2266555676ab2c09.jpg",
+        "color": ["Gray", "Beige", "Black", "Ivory", "Charcoal"],
+        "size": ["S", "M", "L", "XL"]
+      },
+      {
+        "id": "91a766f0-3e47-484d-8adf-02269d928f5d",
+        "name": "FLYDAY Shade Button Collar Knit",
+        "price": "$50.39",
+        "img": "/assets/images/d6949f9014e81280e7af345649a0549f0ff0c61a.jpg",
+        "color": [
+          "Navy",
+          "Deep Blue",
+          "Mustard",
+          "Mint",
+          "Beige",
+          "Sky",
+          "Ivory",
+          "Light Grey",
+          "Light Brown"
+        ],
+        "size": ["One Size"]
+      },
+      {
+        "id": "c5e5e86e-1590-478d-ba79-96b3061910e4",
+        "name": "FLYDAY Digital Twisted V Neck Vest",
+        "price": "$34.79",
+        "img": "/assets/images/e6b977d8df05112bfc7e8514d3650ddbaecf6315.jpg",
+        "color": ["Gray", "Green", "Navy", "Blue"],
+        "size": ["One Size"]
+      },
+      {
+        "id": "0cd3c7e5-66b4-460e-a093-0c5c1e5bf411",
+        "name": "STYLEMAN Big Original Slacks",
+        "price": "$55.19",
+        "img": "/assets/images/Korean-American-Online-Fashion-Shopping-Website-000-1747.jpg",
+        "color": ["Navy", "Black", "Grey"],
+        "size": ["S", "M", "L", "XL", "XXL", "XXXL"]
+      },
+      {
+        "id": "54328202-415b-4b3a-8a6a-71459532daf9",
+        "name": "FLYDAY Grip Oversized Striped Collar Tee Shirt",
+        "price": "$68.79",
+        "img": "/assets/images/cbbe47ef0b8387e8559c0d73f647c0538041bc0e.jpg",
+        "color": ["Green", "Red", "Black", "Yellow"],
+        "size": ["One Size"]
+      },
+      {
+        "id": "8a105f1d-3f7d-4fe9-9e70-e07ae9bad051",
+        "name": "STYLEMAN Jace Striped Shirt",
+        "price": "$58.79",
+        "img": "/assets/images/e954f048f423a37837fa7189e68ac480aae9cea4.jpg",
+        "color": ["Black", "Charcoal", "Navy", "White"],
+        "size": ["L", "XL", "XXL", "XXXL", "XXXXL"]
+      },
+      {
+        "id": "81ff4486-4e64-4a7f-ab6b-a81dac4cb6ec",
+        "name": "Mind Bridge Do Good JHI Padding Shirt Jacket",
+        "price": "$160.79",
+        "img": "/assets/images/b72528bc64cc1371668f168d86e3de5a4ce5307f.jpg",
+        "color": ["Light Gray", "Black"],
+        "size": ["95", "100", "105", "110"]
+      },
+      {
+        "id": "3b8021dd-ec59-48f0-9bfc-637ef28ed42b",
+        "name": "FLYDAY Veler Basic Collar Knit",
+        "price": "$57.59",
+        "img": "/assets/images/c566d86b249ac7d7ff226db1a57062f834deb80b.jpeg",
+        "color": ["Sora", "Black", "Ivory", "Khaki", "Charcoal"],
+        "size": ["One Size"]
+      },
+      {
+        "id": "b96c565f-1dc0-47b5-a888-4d9d844283e4",
+        "name": "FLYDAY Decent TR Oversized Short Sleeve Tee Shirt",
+        "price": "$34.79",
+        "img": "/assets/images/b49589c1626a2296e79049492f08a7bca3b87891.jpg",
+        "color": ["Mustard", "Grey", "Green", "Black", "Blue", "White"],
+        "size": ["One Size"]
+      },
+      {
+        "id": "8b4d1c80-94f7-4481-99d9-71321f957d3c",
+        "name": "Mind Bridge Do Good JHI Wool Blended Shirt Jacket",
+        "price": "$170.89",
+        "img": "/assets/images/2fbaa2b4e0c11fa38146023200198cc7fa002cf4.jpg",
+        "color": ["Melange Gray"],
+        "size": ["95", "100", "105", "110"]
+      },
+      {
+        "id": "b8f42ecb-a263-49de-bf8d-1f945ee709ab",
+        "name": "FLYDAY Aza Basic Stripe Knit",
+        "price": "$54.39",
+        "img": "/assets/images/3c6b1d3a4ead5496be49c8b6d3cf49c4ecd8fe84.jpeg",
+        "color": ["Black", "Grey", "Blue"],
+        "size": ["One Size"]
+      },
+      {
+        "id": "9587ce15-d64d-4389-a057-ebc5638bd112",
+        "name": "SPAO Color Block Sweater",
+        "price": "$86.99",
+        "img": "/assets/images/3646aac4ef155474748657467645d0e3f5d2b667.jpg",
+        "color": ["Beige", "Blue"],
+        "size": ["M", "L", "XL", "XXL"]
+      },
+      {
+        "id": "eaf8ea94-3d4b-47fd-bc81-74aa973ab3f6",
+        "name": "FLYDAY United Check Shirt",
+        "price": "$55.19",
+        "img": "/assets/images/d3b3fd3cd593ed993f351818165f0c7ca3582c75.jpg",
+        "color": ["Yellow", "Charcoal"],
+        "size": ["One Size"]
+      },
+      {
+        "id": "32afb9df-34e7-4025-86ef-e6396b9105dc",
+        "name": "FLYDAY Go Cooling Round Knit",
+        "price": "$37.19",
+        "img": "/assets/images/04f245dc1291bbe379f2dd440b4ad3deb6f8589a.jpg",
+        "color": [
+          "Beige",
+          "Grey",
+          "Black",
+          "Sky Blue",
+          "Olive",
+          "Turquoise",
+          "Khaki",
+          "Cream"
+        ],
+        "size": ["M(95)", "L(100)"]
+      },
+      {
+        "id": "a80b912a-7025-4ef1-ad65-28bf12e58a16",
+        "name": "Mind Bridge Do Good JHI Basic Flannel Shirt",
+        "price": "$91.59",
+        "img": "/assets/images/e850ad306a7e5be5dfe9cc0cf9948fdead6e330b.jpg",
+        "color": ["Teal Blue, Beige, Black, Blue, Ivory"],
+        "size": ["95", "100", "105", "110"]
+      },
+      {
+        "id": "5f8fb7a4-7a64-4edf-92a6-df76047dda1d",
+        "name": "Mind Bridge Mc Coat",
+        "price": "$197.64",
+        "img": "/assets/images/5355a582977fb2c65360e5da8a493fac89a55ad3.jpg",
+        "color": ["Light Khaki", "Teal Blue"],
+        "size": ["95", "100", "105"]
+      },
+      {
+        "id": "59d80b4e-091c-4e94-9550-a0cfe3318015",
+        "name": "8seconds Multi Stripes Knit Ivory",
+        "price": "$95.99",
+        "img": "/assets/images/71532d07fff3386d0cf64929eca251b8db4d3b19.jpg",
+        "color": ["Ivory"],
+        "size": ["M", "L", "XL"]
+      }
+    ],
+    "women": [
+      {
+        "id": "098765654567898765ftgfdsqaqawqaq434aac5-3a767657b-4830-af48-78a304e22819",
+        "name": "V Neck Loose Fit Long Dress",
+        "price": "$43.52",
+        "img": "/assets/images/f1024a21975f5aaa91c65c3bc221886787fe2daf.jpg",
+        "color": ["Navy", "Mocha", "Black"],
+        "size": ["One Size"]
+      },
+      {
+        "id": "dab4d1b0-0ffe-4c11-8e42-f059ee3a471d",
+        "name": "JUSTONE Choco Ramsoul Cat Knit Dress",
+        "price": "$110.94",
+        "img": "/assets/images/73b0cff90b55faf103840aaacf015af426372a48.jpg",
+        "color": ["Gray"],
+        "size": ["FREE"]
+      },
+      {
+        "id": "8d459d40-e260-4270-83c0-43f6e8fe6266",
+        "name": "JUSTONE Brom Single Button Contrast Collar Twist Knit",
+        "price": "$65.69",
+        "img": "/assets/images/6ede3f5a2ebf0669e3ba6ebaeca8297d20eeebfe.jpeg",
+        "color": ["Cream", "Navy", "Light Blue", "Navy"],
+        "size": ["One Size"]
+      },
+      {
+        "id": "a657a130-03a8-4931-9df4-35680f55a056",
+        "name": "8seconds Cable V Neck Pullover Gray Antique Silver",
+        "price": "$82.79",
+        "img": "/assets/images/0804a6e4cf25f23c1e371e4c003d5b55214b0c7f.jpg",
+        "color": ["Gray Antique Silver"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": "70309576-1561-4c09-aee3-3ad4117c1437",
+        "name": "JUSTONE Thick Argyle Cardigan",
+        "price": "$45.99",
+        "img": "/assets/images/707bb251e885cf728565c699bdbe47147750d454.jpeg",
+        "color": ["Beige", "Brown", "Charcoal"],
+        "size": ["FREE"]
+      },
+      {
+        "id": "37ebf93f-b843-499d-95da-3eebfb1ccc53",
+        "name": "MOON Neck Collar Stripes Knit",
+        "price": "$50.79",
+        "img": "/assets/images/73b0cff90b55faf103840aaacf015af426372a48.jpg",
+        "color": ["Black", "Ivory"],
+        "size": ["One Size"]
+      },
+      {
+        "id": "51677dc9-5d23-46cb-bbef-5f02cc831977",
+        "name": "Benito Premium Art Halter Dress",
+        "price": "$152.39",
+        "img": "/assets/images/f8199ac2eefcd41f36a3028c5428f46c54d78e10.jpg",
+        "color": ["Blue"],
+        "size": ["Free", "L"]
+      },
+      {
+        "id": "5cc9b859-2a97-46c3-b2d7-8aeabac3b421",
+        "name": "TWEE Madeleine Tie Long Dress",
+        "price": "$72.59",
+        "img": "/assets/images/a5f1c3e7ad5138b5a1898fc9ded8caf01ec0ee2e.jpg",
+        "color": ["Beige", "Black"],
+        "size": ["One SIze"]
+      },
+      {
+        "id": "9d8748ed-3a48-4f64-af2f-ab3b62783fec",
+        "name": "JUSTONE Tsiming Cardigan+dress Set",
+        "price": "$99.74",
+        "img": "/assets/images/ac054e85e16626a90f21063f92040fd8933963d2.jpeg",
+        "color": ["Beige", "Grey", "Black"],
+        "size": ["FREE"]
+      },
+      {
+        "id": "5d11ef6d-2be5-4e0c-b0ea-d46633e4b83f",
+        "name": "SPAO Wool Like Crop Mc Jacket",
+        "price": "$127.99",
+        "img": "/assets/images/51e43af9248fae0116b2662b4298674e31386e6d.jpg",
+        "color": ["Black", "Cream", "Light Brown"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": "4a575a68-187a-442c-b5b0-c7d3426aba2b",
+        "name": "DABAGIRL Angle Tulip Shirt",
+        "price": "$51.64",
+        "img": "/assets/images/640f6567cb0c2e635272ff861598977146a72ec7.jpg",
+        "color": ["Green", "Brown", "Light Blue", "Ivory"],
+        "size": ["One Size"]
+      },
+      {
+        "id": "1b0ab4ca-522e-4f4b-89ac-b3c57b7c0c5c",
+        "name": "DABAGIRL Denver V Neck Knit",
+        "price": "$45.44",
+        "img": "/assets/images/24ca91219dba60e15a4567a18124efbcf089b853.jpg",
+        "color": ["Red", "Beige", "Black", "Ivory"],
+        "size": ["One Size"]
+      },
+      {
+        "id": "67734b5d-fb79-41ab-8044-25e15cdb5a8c",
+        "name": "JUSTONE Today Wrinkle Free Span Shirt",
+        "price": "$37.19",
+        "img": "/assets/images/40d74d1bf8c9a878b3189b6aa75b2edb2ea1e76f.jpg",
+        "color": [
+          "Mint",
+          "Light Blue",
+          "Light Beige",
+          "Pink",
+          "White",
+          "Black"
+        ],
+        "size": ["FREE", "L", "XL"]
+      },
+      {
+        "id": "889ab6ef-cb88-4a66-8745-ef9fdd272433",
+        "name": "DABAGIRL Long Lived Dress",
+        "price": "$91.59",
+        "img": "/assets/images/a5fcc60713508e2f09dab26c9c8b682461ed2c67.jpg",
+        "color": ["Green", "Brown", "Black"],
+        "size": ["S", "M"]
+      },
+      {
+        "id": "2b711efa-7643-4955-969b-f623d8fa94d8",
+        "name": "JUSTONE Lanida Check Plaid Shirt",
+        "price": "$60.14",
+        "img": "/assets/images/2a9eed5566a5471ddac59a21971e1d5fa8643e83.jpeg",
+        "color": ["Beige", "Blue", "Black"],
+        "size": ["One Size"]
+      },
+      {
+        "id": "5f66cc5c-d9da-4f9f-bdd2-8ead818c50e4",
+        "name": "TWEE Road Line Turtleneck Tee Shirt",
+        "price": "$42.59",
+        "img": "/assets/images/0b792112dc8281048387462705f89a93f243b576.jpg",
+        "color": ["Black", "Sky Blue", "Ivory"],
+        "size": ["One Size"]
+      },
+      {
+        "id": "cd6c4194-013c-41fc-a5d0-1e6e02dc5886",
+        "name": "DABAGIRL Jewel Re Top Skirt Set",
+        "price": "$54.99",
+        "img": "/assets/images/0b84e4dbb7ade5e0107196e5cb667fc4f6f085f0.jpg",
+        "color": ["Beige", "Black"],
+        "size": ["One Size"]
+      },
+      {
+        "id": "6e0db7ee-0af3-426d-a1ef-da0ca5a4924c",
+        "name": "DABAGIRL Sore Knit Shirt",
+        "price": "$56.74",
+        "img": "/assets/images/467359305b87c883068b30d54310f9bd3095d30b.jpg",
+        "color": ["Brown", "Black"],
+        "size": ["One Size"]
+      },
+      {
+        "id": "4f5019bf-b278-4db1-ba48-3d721251eb7b",
+        "name": "DABAGIRL Eva Shirred Dress",
+        "price": "$65.24",
+        "img": "/assets/images/8f8393eb39fb5dd4a8150a56d07c6767a3475f38.jpg",
+        "color": ["Mint", "Black", "Ivory"],
+        "size": ["One Size"]
+      },
+      {
+        "id": "7547afed-43f1-4d36-babe-9c5b8fc13d21",
+        "name": "8seconds Satin Layered Long Dress Black",
+        "price": "$80.99",
+        "img": "/assets/images/7843c79c3eec929e1129ceaff5fe424c324ff8a1.jpg",
+        "color": ["Black"],
+        "size": ["S", "M", "L"]
+      }
+    ],
+    "unisex": [
+      {
+        "id": "09876543bbbbbbbbbbbbbbb4aac5-3a767657b-4830-af48-78a304e22819",
+        "name": "Unisex Hanbok Chosun Pants Black",
+        "price": "$72.78",
+        "img": "/assets/images/936d6eebe6ba113b8f71b687f4a8be4596119c49.jpg",
+        "color": ["Black"],
+        "size": ["S", "M", "L", "XL"]
+      },
+      {
+        "id": "a5910285-8b48-44cd-86d5-6e83a6232a06",
+        "name": "SPAO Unisex Basic Padding",
+        "price": "$102.99",
+        "img": "/assets/images/5bfcd7b2485a7d00c14a6e5d59bf42fcd40a64e6.jpg",
+        "color": [
+          "Beige",
+          "Light Yellow",
+          "Blue",
+          "Grey",
+          "Light Khaki",
+          "Light Grey",
+          "Ivory",
+          "Mint"
+        ],
+        "size": ["XS", "S", "M", "L", "XXL"]
+      },
+      {
+        "id": "704825de-72f9-4a63-a2dd-30ebcb940c41",
+        "name": "Covernat Unisex Stripes Rugby Sweatshirt Blue",
+        "price": "$125.99",
+        "img": "/assets/images/dab0a785d293a4d6307446f97f10bcd05f4cdfef.jpg",
+        "color": ["Blue"],
+        "size": ["XS", "S", "M", "L", "XL", "XXL"]
+      },
+      {
+        "id": "4ad14b71-fbc2-4905-88a1-f4fe46ecddb7",
+        "name": "Covernat Unisex Rugby Sweatshirt Navy",
+        "price": "$125.99",
+        "img": "/assets/images/57d810a2e4cc288248f6d24aafbbee7471eca873.jpg",
+        "color": ["Navy"],
+        "size": ["S", "M", "L", "XL", "XXL"]
+      },
+      {
+        "id": "e0d1a13e-3dae-4056-bfec-8009228cf6fa",
+        "name": "SPAO Unisex Hotch Stripes Sweater",
+        "price": "$76.99",
+        "img": "/assets/images/73a1da8d31ef02e1cc680fe9a47c83b1007bc128.jpg",
+        "color": ["Gray", "Black", "Navy"],
+        "size": ["S", "M", "L", "XL"]
+      },
+      {
+        "id": "80816f65-ac18-48e1-8378-45ac49592857",
+        "name": "SPAO Unisex Slim Fit Turtleneck Tee Shirt",
+        "price": "$39.99",
+        "img": "/assets/images/0cc5f87e56a748326d330a4722c87dbf8b22c0e4.jpg",
+        "color": ["Black", "Ivory"],
+        "size": ["S", "M", "L"]
+      },
+      {
+        "id": "da225993-5644-4962-a694-14180a622dcd",
+        "name": "Covernat Unisex Heavy Denim Oversized Shirt Blue",
+        "price": "$166.99",
+        "img": "/assets/images/a5bc75c30625783af2d45779729b4027cab6aa9a.jpg",
+        "color": ["Blue"],
+        "size": ["M", "L", "XL"]
+      },
+      {
+        "id": "f81a01a9-afb1-441b-ac16-2c34a5b6668b",
+        "name": "LEESLE Unisex Hanbok Napping Classci Maru Pants Black",
+        "price": "$193.99",
+        "img": "/assets/images/9c511823f3d2b18f3ee5ef5f2600699506d74eca.jpg",
+        "color": ["Black"],
+        "size": ["L"]
+      },
+      {
+        "id": "7b0e1302-a0e2-44d3-b6fa-43cc641f8e57",
+        "name": "SPAO Unisex Scoops Ahoy Short Sleeve Pajama Navy",
+        "price": "$75.99",
+        "img": "/assets/images/783a84289d48c6401824dd80e8c9ec4a937370f9.jpg",
+        "color": ["Navy"],
+        "size": ["S", "M", "L", "XL"]
+      },
+      {
+        "id": "174b2f5d-35a5-4f49-9051-91b04c1c0361",
+        "name": "SPAO Unisex Sanrio Pajama Light Blue",
+        "price": "$75.99",
+        "img": "/assets/images/93087d106e5038476bcdc2d047b94ac2af1c0bff.jpg",
+        "color": ["Light Blue"],
+        "size": ["S", "M", "L", "XL"]
+      },
+      {
+        "id": "53c747a8-1198-48a6-b519-94070c431f62",
+        "name": "Covernat Unisex Oversized Arch Logo Half Zipup Sweatshirt Header Gray",
+        "price": "$153.99",
+        "img": "/assets/images/24f498543e4c219ac7672fb468b26200ec57f099.jpg",
+        "color": ["Header Gray"],
+        "size": ["XS", "S", "M", "L", "XL", "XXL"]
+      }
+    ]
+  },
+  "skincare": {
+    "cleansers": [
+      {
+        "id": "098765434atrf6rtujtyedws4wsac5-3a767657b-4830-af48-78a304e22819",
+        "name": "Blackhead Total Solution Set",
+        "price": "$25",
+        "img": "/assets/images/0_3.jpg",
+        "description": "The RiRe Blackhead Total Solution Set contains both the RiRe Blackhead Brush Cleanser and RiRe Skinny Blackhead Closing Serum for total pore care. With continued use, pores will be free of dirt, oil, and sebum, resulting in smaller-looking pores."
+      },
+      {
+        "id": "92a9c967-d527-4585-820b-f4c39cda27e0",
+        "name": "RiRe All Kill Blackhead Cleansing Oil (200ml)",
+        "price": "$32.49",
+        "img": "/assets/images/38457e8fc8312a3.jpg",
+        "description": "Clogged pores? Look at the RiRe All Kill Blackhead Cleansing Oil as your ideal first-step cleanser.\n\nFormulated with 10 different botanical oils, this mild cleansing oil removes all traces of makeup, sunscreen, and pollution while removing dirt and oil lodged deep in the pores. Just one wash will leave your skin feeling clean and purified without that dry, flaky feeling found in most clarifying cleansers."
+      },
+      {
+        "id": "5a5307a4-ac2b-4b82-91ef-ac087fecb0fd",
+        "name": "BOM Eight Tea Cleansing Foam (150ml)",
+        "price": "$19.69",
+        "img": "/assets/images/f5c91925a8933481bb1ae4a61bbcd1aaa174e6f0.jpg",
+        "description": "Eight Tea Cleansing Foam contains naturally derived surfactants and provides hydrating cleansing with 8 different kinds of tea extracts.\n- With dense and creamy lather, it removes impurities and makeup residues effectively.\n- It provides harsh-free weak acidic cleanse (pH 5.5), which is similar to skin condition and thus reducing skin irritation.\n- Handy one-step cleanser for convenient daily cleansing routine.\n- Key ingredients include 8 kinds of tea such as Green Tea, Black Tea, Chamomile Tea and etc."
+      }
+    ],
+    "exfoliaters": [
+      {
+        "id": "09876544567890-34aac5-3a767657b-4830-af48-78a304e22819",
+        "name": "All Kill Blackhead Remover Stick",
+        "price": "$15",
+        "img": "/assets/images/2d975c4f756dc87.jpg",
+        "description": " The RiRe Blackhead Remover Stick works to effectively minimize the appearance of pores by detoxifying dirt, sebum, and debris and smoothing out skin’s texture — all in one easy-to-use, portable stick."
+      },
+      {
+        "id": "841ebbe2-3370-4d54-8c54-3c76bb9210f1",
+        "name": "I'm Sorry For My Skin City Skin Care Peeling Pad & Moisture Mask Pack (10EA)",
+        "price": "$27.99",
+        "img": "/assets/images/dfe4239351b2baa2075cf383c21a475ef641f6a7.jpg",
+        "description": "Consistent use of this 2-step system will result in soft and smooth skin. The first step is an exfoliating peeling pad that uses a gommage effect and a gel-like essence to slough dead skin cells without irritating skin. The second step, a moisturizing mask, uses natural ingredients to promote a healthy complexion by deeply hydrating and protecting the skin."
+      },
+      {
+        "id": "915cfcd9-3b89-477e-84e1-0662e1170ad4",
+        "name": "Kate Somerville ExfoliKate Intensive Exfoliating Treatment – Salicylic Acid and Lactic Acid Super Facial Scrub Improves Texture and Pores",
+        "price": "$85.23",
+        "img": "/assets/images/418+Hmh4kML._SX522_.jpg",
+        "description": "Get clinically proven results after just 1 use* with this exfoliation scrub that significantly improves the appearance of fine lines and wrinkles including crow’s feet."
+      }
+    ],
+    "toners": [
+      {
+        "id": "09876548675trvybyu7654567834aac5-3a767657b-4830-af48-78a304e22819",
+        "name": "Pore Tightening Fresh Toner (300ml)",
+        "price": "$15",
+        "img": "/assets/images/0t-19.jpg",
+        "description": "Amazonian white clay and volcanic ash extract work to purify and rid the pores of dirt, oil, and debris, while chestnut shell extract works to diminish pore size. Niacinamide — a Korean skincare staple — does double-duty as it both improves the appearance of enlarged pores and lighten hyperpigmentation, dark spots, and dullness. Coffee is added to liven up sallow skin, while green tea, aloe, adenosine, and lavender work together to soothe inflammation and irritation."
+      },
+      {
+        "id": "b8ccbb7a-9dea-44b3-8f83-aa2ba137dc24",
+        "name": "Celonia Signature Bio Essence Toner (150ml)",
+        "price": "$45.99",
+        "img": "/assets/images/647f2f1720beec4dde1fa4c4423b90711dd958b6.jpg",
+        "description": "Just like your body, your skin’s cells need a consistent routine to stay healthy and functioning at their very best. The Celonia Signature Bio Essence Toner contains 100 ppm of umbilical cord stem cell cultures to give the skin a boost of youthful rejuvenation, protection, and healing. Formulated to be quick-absorbing and non-sticky, this thick essence toner is designed to give the skin tons of vital nutrition through a combination of active ingredients and a specialized herb complex."
+      },
+      {
+        "id": "596596b8-f540-4f39-9313-0b72b40a2951",
+        "name": "BOM Eight Tea Toner (150ml)",
+        "price": "$19.59",
+        "img": "/assets/images/1686f568129f4fa8ba5bc08a3074078329757f40.jpg",
+        "description": "Eight Tea toner contains 8 kinds of tea extract and helps to hydrate and retexturize skin.\n- The toner is made with EWG green-labeled ingredients and harsh-free formula for sensitive skin types.\n- Moistening water formula smoothly absorbs into the skin.\n- Light & fresh texture with non-sticky feeling.\n- The weak acidic formula (pH 5.5), which is similar to skin condition, helps to improve skin condition.\n- Key ingredients include 8 kinds of tea such as Green Tea, Black Tea, Chamomile Tea and etc."
+      }
+    ],
+    "masks": [
+      {
+        "id": "09876hgtr56754edcdew325434aac5-3a767657b-4830-af48-78a304e22819",
+        "name": "Troxederm Repair Mask Pack (5EA)",
+        "price": "$25",
+        "img": "/assets/images/0-1163.jpg",
+        "description": "Anti-aging, soothing, and moisturizing all-in-one: with 100% natural and EWG 1-grade ingredients (like propolis an camellia extract), the Troxederm Repair Mask Pack does it all. "
+      },
+      {
+        "id": "d319edb4-0abb-457e-b852-e25dc0e64792",
+        "name": "Celonia Signature Bio Sheet Mask Pack (5EA)",
+        "price": "$46.99",
+        "img": "/assets/images/ac39c9d27b2a9cfcea1545f19d077be7066b74cc.jpg",
+        "description": "The Celonia Signature Bio Sheet Mask contains 1000 ppm of umbilical cord stem cell cultures for an immediate boost of intensive care. Soaked in a pink emulsion filled with skin-loving ingredients like Vitamin B12 and lotus flower extract, this mask is designed to deeply nourish the skin with anti-aging and glow-giving properties. In just 20 minutes, skin will look youthful, bright, and ultra-smooth.\n"
+      },
+      {
+        "id": "67d1efcf-eb12-4665-9d94-1e8c8d3fe7fe",
+        "name": "RiRe Real Nature Mask Pack (10EA) - Pearl",
+        "price": "$21.99",
+        "img": "/assets/images/061f72e9a5c05a0.jpg",
+        "description": "If you notice your skin looking dehydrated, sallow, or dull, look to the RiRe Real Nature Mask in ‘Pearl’ to brighten up your complexion.\n\nPacked with real pearl extract, this mask is designed to keep your skin looking bright, soft, and moisturized. Pearl contains 20 amino acids and minerals that maintain the hydration of your skin, while niacinamide and adenosine rejuvenate the skin’s surface to look vibrant and youthful. This mask also has a blend of aloe, green tea, and cucumber extracts to calm and soothe irritated skin."
+      }
+    ],
+    "moisturisers": [
+      {
+        "id": "0987nhgfre4567898iuytrew265434aac5-3a767657b-4830-af48-78a304e22819",
+        "name": "Premium White Pure Goat Milk Cream",
+        "price": "$17",
+        "img": "/assets/images/0t-26.jpg",
+        "description": " Experience bright, smooth, and supple skin with the RiRe Premium White Goat Milk Cream. Here’s what the power of goat milk can do for your skin:"
+      },
+      {
+        "id": "9a9a0c7c-50d4-439b-865a-0868a1511aa3",
+        "name": "BOM Eight Tea Water Capsule Cream",
+        "price": "$32.49",
+        "img": "/assets/images/a451ccf26e0590828dfd10f3cd299aec0016f700.jpg",
+        "description": "Eight tea water capsule cream contains 8 different kinds of tea extract and provides intensive hydration.\n- Gel-type moisturizing cream with moisture capsules containing ceramide, panthenol, Vitamin C and other key ingredients.\n- The toner is made with EWG green-labeled ingredients and harsh-free formula for sensitive skin types.\n- Light & fresh texture with non-sticky feeling.\n- The weak acidic formula (pH 5.5), which is similar to skin condition, helps to improve skin condition.\n- Key ingredients include 8 kinds of tea such as Green Tea, Black Tea, Chamomile Tea and etc."
+      },
+      {
+        "id": "3c9c3d9c-2f09-4391-acbf-e4e8b72dc381",
+        "name": "NGF37 Total Solution Radiance Cream",
+        "price": "$80.99",
+        "img": "/assets/images/main.jpg",
+        "description": "NGF37 is a Korean skincare system designed to rejuvenate, soften, and protect the skin’s elasticity and brightness through cutting-edge umbilical cord technology. Through clinical testing and patented ingredients, NGF37 is proven to improve skin’s clarity, moisture levels, and resilience.\n\nPatented plant extracts and Nelumbo nucifera flower water make up the Total Solution Radiance Cream. The moist, gel texture contains capsules that burst upon application to give the perfect dose of brightening ingredients to the skin."
+      }
+    ]
+  },
+  "shoes": {
+    "men": [
+      {
+        "id": "c9271141-127d-4939-9856-e7aa98fcffed",
+        "name": "FLYDAY Bark Retro Derby Shoes",
+        "price": "$195.19",
+        "img": "/assets/images/75c7f0404193331b30d52abdb8c591f6d2260279.jpeg",
+        "color": ["Black"],
+        "size": ["38", "40", "42", "44", "45", "46", "47"]
+      },
+      {
+        "id": "c484902a-993f-424b-8086-deac14679e83",
+        "name": "FLYDAY Desert Suede Leather Boots",
+        "price": "$202.99",
+        "img": "/assets/images/cd204240e8203efa68597d5fd8b5243877fe4c7e.jpeg",
+        "color": ["Desert Suede"],
+        "size": ["38", "40", "42", "44", "45", "46", "47"]
+      },
+      {
+        "id": "55f86f12-83de-4488-8778-f2f7c1158e84",
+        "name": "FLYDAY Leather Loafer Designed By Y",
+        "price": "$102.79",
+        "img": "/assets/images/d65e8ad61fd2c288c00bbb9f89345943e039dc4a.jpeg",
+        "color": ["White", "Black"],
+        "size": ["42", "44", "45", "46"]
+      },
+      {
+        "id": "b821d633-dbeb-43ef-bd0e-baf33fab0f2c",
+        "name": "FLYDAY Breeze Sandals",
+        "price": "$122.39",
+        "img": "/assets/images/a830399f29dc6f2cd080a6ecffe5c42cc7f9e774.jpg",
+        "color": ["Beige", "Brown"],
+        "size": ["42", "44", "45", "46"]
+      },
+      {
+        "id": "962e87dd-ab8b-453f-beb6-a5da396f1133",
+        "name": "FLYDAY Bake Flip Flop",
+        "price": "$77.19",
+        "img": "/assets/images/8d9a7ae780e1d433170baea0d1cb868a9d55d2d2.jpg",
+        "color": ["Beige", "Brown", "Black"],
+        "size": ["42", "44", "45", "46"]
+      }
+    ],
+    "women": [
+      {
+        "id": "09876543erfvbgt56734aac5-3a767657b-4830-af48-78a304e22819",
+        "name": "Mary Jane Pumps",
+        "price": "$75",
+        "img": "/assets/images/973fe8e9bcc0f9ad0ff178c1155282cc9526bc16.jpg",
+        "color": ["Black", "Burgundy"],
+        "size": [32, 34, 36, 39, 41]
+      },
+      {
+        "id": "a408dbf1-9a70-4469-9f31-e0877c2d9972",
+        "name": "JUSTONE Grimmy Twisted Strap Slippers",
+        "price": "$65.89",
+        "img": "/assets/images/6c502aa671f56de8f00f0bacfdc0edf924a2fff7.jpeg",
+        "color": ["Ivy", "Beige", "Brown", "Black"],
+        "size": ["32", "34", "36", "38", "40", "42"]
+      },
+      {
+        "id": "23e76e5b-5916-4b79-81c3-74bfc316869e",
+        "name": "Envy Look Riahkun Long Boots",
+        "price": "$125.19",
+        "img": "/assets/images/112e6e3c063cdf0ba1822aafcbbb19d6a81c4376 (1).jpg",
+        "color": ["Black"],
+        "size": ["34", "36", "38", "40"]
+      },
+      {
+        "id": "bfd0192a-7f8e-4a10-b470-04d755a1ee39",
+        "name": "JUSTONE Luenvee Buckle Strap Sandals",
+        "price": "$73.54",
+        "img": "/assets/images/ec7d490b9f2442cebc41b45c6dfc7e8fcb10a085.jpeg",
+        "color": ["Briown", "Cream", "Black"],
+        "size": ["32", "34", "36", "38", "40", "42"]
+      },
+      {
+        "id": "e2850db9-3ae5-48bc-b1db-a1ae188a14fc",
+        "name": "SOO & SOO Macaron-sized Slipper Indoor Shoes",
+        "price": "$25.39",
+        "img": "/assets/images/frame_1_delay-1.5s.jpg",
+        "color": ["Pink", "Ivory"],
+        "size": ["32", "34", "36", "38", "39"]
+      }
+    ],
+    "unisex": [
+      {
+        "id": "09876m,knmjknm5434aac5-3a767657b-4830-af48-78a304e22819",
+        "name": "Unisex Big Ball Chunky A NY Yankees Beige",
+        "price": "$150",
+        "img": "/assets/images/a24b83526eaacdb81ce455be67aab985183cbf9b.jpg",
+        "color": ["Beige"],
+        "size": [32, 34, 36, 39, 41, 43, 45, 47]
+      },
+      {
+        "id": "62149f0b-f100-444d-b608-9e4847b1ac08",
+        "name": "Unisex Chunky Liner Piano Black NY Yankees Black",
+        "price": "$234.99",
+        "img": "/assets/images/27eb692c507ee5f38b120d93b86697caa239f3eb.jpg",
+        "color": ["Black"],
+        "size": ["36", "37", "38", "39", "40", "41", "42", "43", "44", "45"]
+      },
+      {
+        "id": "a57d05b1-d54c-4abb-ab6e-80f6579e0453",
+        "name": "Unisex Big Ball Chunky A NY Yankees Ivory",
+        "price": "$182.85",
+        "img": "/assets/images/9895ead01463e8dbd3545fdd4c01bafbda64c1ed.jpg",
+        "color": ["Ivory"],
+        "size": [
+          "34",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45"
+        ]
+      },
+      {
+        "id": "eee27304-ef09-4049-b9a2-63e5c8842001",
+        "name": "Unisex Chunky Classic A NY Yankees Ivory",
+        "price": "$254.99",
+        "img": "/assets/images/521c5e6b93efad82e8f99fdc0246b0e3a0400ca2.jpg",
+        "color": ["Ivory"],
+        "size": [
+          "34",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45"
+        ]
+      },
+      {
+        "id": "d9c5ad5f-d803-4202-a5fc-42b5085aa1da",
+        "name": "Unisex Chunky Sandals NY Yankees Black",
+        "price": "$150.99",
+        "img": "/assets/images/8db7092d702174d7c524786f39e226fdec6f4639.jpg",
+        "color": ["Black"],
+        "size": [
+          "34",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45"
+        ]
+      },
+      {
+        "id": "8ba86b31-584f-44cd-afc4-e7385d080a41",
+        "name": "Unisex Chunky Sandals Boston Redsox Sand",
+        "price": "$150.99",
+        "img": "/assets/images/17579c508d7cdaffa09a95ea6b17e1a619631614.jpg",
+        "color": ["Sand"],
+        "size": [
+          "34",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45"
+        ]
+      },
+      {
+        "id": "c508a287-055d-40f5-8e4e-06ef80b69c10",
+        "name": "Unisex Big Ball Chunky Dia Monogram Boston Redsox Beige",
+        "price": "$258.99",
+        "img": "/assets/images/f095e905f2570573da76d9241802d0301a15b06e.jpg",
+        "color": ["Beige"],
+        "size": [
+          "34",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45"
+        ]
+      },
+      {
+        "id": "93ced7a0-6317-42fc-b5fb-bb7d1291db47",
+        "name": "Babe Jung Key Slippers",
+        "price": "$63.19",
+        "img": "/assets/images/afa5af323808fa3e514f5842397901af67dbd800.jpeg",
+        "color": ["White", "Beige", "Black"],
+        "size": ["37", "38", "39", "40", "41", "42", "43"]
+      },
+      {
+        "id": "37408d0c-4c19-4b32-97bc-548b3b8e4317",
+        "name": "Unisex Chunky Classic A Boston Redsox Cream",
+        "price": "$244.99",
+        "img": "/assets/images/9eb6955e13bf23b0f23d0451ab5ca02f1facbaf6.jpg",
+        "color": ["Cream"],
+        "size": [
+          "34",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45"
+        ]
+      },
+      {
+        "id": "dd0f33f7-245c-4d40-93ae-d0d2dfcf6f60",
+        "name": "Unisex Chunky High Mono Jacquard NY Yankees Gray",
+        "price": "$230.99",
+        "img": "/assets/images/86598f8e4d7b22f5a69c0c0208625f079839766b.jpg",
+        "color": ["Gray"],
+        "size": ["37", "38", "39", "40", "41", "42", "43", "44", "45"]
+      },
+      {
+        "id": "884922c8-b849-4adb-a319-b377e4ec1108",
+        "name": "Unisex Double Slide Jacquard Dia Monogram NY Yankees Black",
+        "price": "$168.99",
+        "img": "/assets/images/2162686d1b4e32c01a34cec796df2cb0a271d521.jpg",
+        "color": ["Black"],
+        "size": ["37", "38", "39", "40", "41", "42", "43", "44", "45"]
+      },
+      {
+        "id": "324cb5d5-e64d-410d-be1e-86f0b4a6358d",
+        "name": "Unisex Cover Ecru",
+        "price": "$145.99",
+        "img": "/assets/images/09d6a549029878597b3dd90ba8caea8ab9d91c3c.jpg",
+        "color": ["Ecru"],
+        "size": ["37", "38", "39", "40", "41", "42", "43", "44", "45"]
+      },
+      {
+        "id": "07675748-14e7-493f-aca2-7173f83a03b8",
+        "name": "Unisex Cross Strap Slide Black",
+        "price": "$145.99",
+        "img": "/assets/images/ffafd329a83ace8ae60f613691174f87ff402423.jpg",
+        "color": ["Black"],
+        "size": ["39", "40", "41", "42", "43", "44", "45"]
+      },
+      {
+        "id": "37676950-ca02-4448-92cc-03845c7f58d1",
+        "name": "Unisex Chunky Bouncer Slide LA Dodgers White",
+        "price": "$165.99",
+        "img": "/assets/images/1429862707c185c530b0133fbb830eccd6d3371e.jpg",
+        "color": ["White"],
+        "size": ["36", "37", "38", "39", "40", "41", "42", "43", "44", "45"]
+      }
+    ]
+  }
+}

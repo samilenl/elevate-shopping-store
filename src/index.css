@@ -1,0 +1,58 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: Tahoma, 'Segoe UI', Geneva, Verdana, sans-serif;
+}
+
+body {
+
+  max-width: 100%;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+  height: 3px;
+}
+
+@media (max-width: 650px) {
+  ::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+  }
+}
+
+::-webkit-scrollbar-thumb{
+  background-color: lightgray;
+  border-radius: 20px;
+}
+
+.content{
+  min-height: 90vh;
+}
+
+.slct, .inp {
+  border: solid lightgray 0.0001px;
+  color: black;
+
+  width: 100%;
+  font-family: WorkSans;
+  font-size: 12px;
+  padding: 1vw 2vw;
+  outline: none;
+}
+
+.customs {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+select {
+  background-color: white;
+}

@@ -1,0 +1,209 @@
+@font-face {
+    font-family: WorkSans;
+    src: url(/assets/font/WorkSans/WorkSans-VariableFont_wght.ttf);
+    /* src: url(/assets/font/WorkSans/WorkSans-Regular.ttf); */
+}
+
+@font-face {
+    font-family: WorkSansLight;
+    src: url(/assets/font/WorkSans/static/WorkSans-ExtraLight.ttf);
+    /* src: url(/assets/font/WorkSans/WorkSans-Regular.ttf); */
+}
+
+.productCont {
+    font-family: WorkSansLight, Verdana, Geneva, Tahoma, sans-serif;
+    
+    /* margin: 50px 20px; */
+    margin-top: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 100px;
+    /* height: 90vh; */
+    /* width: 80vw; */
+    /* min-width: 40vw;
+    max-width: 80vw; */
+    display: flex;
+    justify-content: flex-start;
+    gap: 3%;
+    
+
+}
+
+.product-img-container {
+    display: flex;
+    justify-content: center;
+    /* width: 60%; */
+
+}
+
+.product-img {
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* width: 100%;
+    height: 90vh; */
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+    min-width: 300px;
+    /* min-width: 20vw; */
+    /* max-width: 47%; */
+    max-width: 50vw;
+    min-height: 20vh;
+    max-height: 80vh;
+}
+
+.product-img > img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.prodName {
+    font-family: WorkSansLight, Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    color: black;
+    text-align: start;
+    margin: 0;
+    font-size: 33px;
+}
+
+.prodPrice {
+    font-family: WorkSans;
+    font-weight: 500;
+    font-size: 17px;
+    color: rgb(253, 179, 41);
+}
+
+button, select {
+    font-family: inherit;
+}
+
+.prodTop, .choose {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.prodTop {
+    width: 40vw;
+    /* padding-right: 5vw; */
+    margin-top: 2vw;
+}
+.prodDes {
+    font-family: WorkSans;
+    font-size: 15px;
+    width: 95%;
+}
+
+@media (max-width: 500px) {
+    .productCont {
+        flex-direction: column;
+        /* min-height: 50vh;
+        max-height: 80vh; */
+        /* min-height: 400px; */
+        /* max-height: 500px; */
+        /* min-width: 40vw; */
+        /* max-width: 70vw; */
+        /* align-items: center; */
+        margin-top: 10px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+ 
+    .prodName {
+        font-family: WorkSans;
+        font-size: 20px;
+    }
+
+    .prodTop {
+        margin-top: 20px;
+        width: 92%;
+    }
+
+
+
+    .prodDes {
+        font-size: 11px;
+    }
+}
+
+.product-info {
+    /* display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    height: 100%; */
+    /* max-width: 50vw; */
+    display: flex;
+    justify-content: center;
+
+    /* min-width: 40vw; */
+}
+
+
+
+
+
+
+.choose {
+    font-size: 13px;
+}
+
+.select {
+    border: solid lightgray 0.0001px;
+    color: black;
+  
+    width: 100%;
+    font-family: WorkSans;
+    font-size: 14px;
+    padding: 20px 10px;
+    outline: none;
+}
+
+.myOptions {
+    font-family: WorkSans;
+    font-size: 14px;
+}
+
+.prodQty {
+    font-family: WorkSans;
+    font-size: 15px;
+    font-weight: 600;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.prodInp {
+    font-family: WorkSans;
+    font-size: 15px;
+    padding: 5px 10px;
+    border: solid lightgray 0.0001px;
+    outline: none;
+    width: 50px;
+}
+
+.prodInp:focus {
+    outline: orange solid 1px;
+}
+
+.prodBtn {
+    font-family: WorkSans;
+    padding: 10px 20px;
+    font-size: 15px;
+    
+    background-color: rgb(108, 110, 121);
+
+    color: white;
+
+    cursor: pointer;
+    border: none;
+}
+
+.prodBtn:hover {
+    background-color: orange;
+    /* background-image: linear-gradient(to right, rgb(181, 231, 169), rgb(250, 235, 149), rgb(250, 235, 149)); */
+
+    color: white;
+    border: none;
+}

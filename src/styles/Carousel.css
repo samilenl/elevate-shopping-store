@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.pic {
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+    transition: ease-in-out
+}
+
+.carousel {
+    position: relative;
+    overflow: hidden;
+}
+
+.change {
+    width: 40px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.1);
+    position: absolute;
+    margin-top: 45vh;
+    top: 0;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.change:hover {
+    background-color: rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+
+#right {
+    right: 0;
+}
+
+#left {
+    left: 0;
+}
+
+.indicators {
+    position: absolute;
+    width: 95vw;
+    bottom: 0;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(0, 0, 0, 0.25);
+}
+
+.indicator {
+    width: 19vw;
+    border-radius: 20px;
+    height: 6px;
+}
+
+.active {
+    background-color: rgba(255, 255, 255, 0.507);
+}
+
+.carousel {
+    display: flex;
+    justify-content: center;
+}
+
+.textInfo {
+    color: white;
+    /* color: rgb(181, 231, 169); */
+    position: absolute;
+    margin-left: 15px;
+    width: 50vw;
+    top: 0;
+    margin-top: 60vh;
+    /* bottom: 0; */
+}
+
+.textInfo > * {
+    font-family: Kanit;
+}
+
+.head {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.content {
+    font-size: 18px;
+}
+
+@media (max-width: 850px) {
+    .pic {
+        height: 650px;
+    }
+    .textInfo {
+        /* margin-top: 80vh; */
+        width: 82vw;
+    }
+    .head {
+        font-size: 25px;
+    }
+    .content{
+        font-size: 14px;
+    }
+}
+
+a {
+    text-decoration: none;
+}

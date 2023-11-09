@@ -1,0 +1,294 @@
+@font-face {
+    font-family: WorkSans;
+    src: url(/assets/font/WorkSans/WorkSans-VariableFont_wght.ttf);
+    /* src: url(/assets/font/WorkSans/WorkSans-Regular.ttf); */
+}
+
+@font-face {
+    font-family: WorkSansLight;
+    src: url(/assets/font/WorkSans/static/WorkSans-ExtraLight.ttf);
+    /* src: url(/assets/font/WorkSans/WorkSans-Regular.ttf); */
+}
+
+h1 {
+    font-family: WorkSansLight;
+    text-align: center;
+    margin: 20px;
+}
+
+.cardContainer {
+    margin: 10px;
+    gap: 25px;
+    margin-bottom: 60px;
+}
+
+.fccolor {
+    color: black;
+}
+
+.inp {
+    width: 84%;
+}
+
+.toCart {
+    font-family: WorkSans;
+    padding: 5px 10px;
+    border: solid black 1px;
+    /* position: absolute; */
+    /* right: 0; */
+    /* background-color: lavender; */
+    margin: 7px;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+.fcard {
+    margin-bottom: 10px;
+    width: 100%;
+
+}
+
+.fcard {
+    min-width: 150px;
+    max-width: 250px;
+    min-height: 300px;
+    max-height: 400px;
+    margin-bottom: 100px;
+    position: relative;
+
+    /* flex: 0 0 100%; */
+  }
+
+
+
+  @media (max-width: 550px) {
+    .fcard {
+        flex-basis: 47%;
+        flex-grow: 0;
+        flex-shrink: 0;
+    }
+
+    .itemName {
+        font-size: 12px;
+    }
+
+    .itemPrice {
+        font-size: 12px;
+    }
+  }
+
+.bottom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 9px;
+}
+
+.favCont {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+
+
+
+
+
+
+.overlay {
+    position: fixed;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+  }
+
+
+
+  .modal {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-right: 0;
+    margin-left: auto;
+    padding: 30px;
+    width: 50vw;
+    background-color: white;
+    height: 95vh;
+    border: none;
+    z-index: 4;
+    overflow: auto;
+  }
+  
+  
+  
+  .modal {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .cartCont {
+    overflow: auto;
+    height: 86vh;
+    font-family: WorkSans;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .cartCont > :first-child {
+    border-top: solid lightgrey 1px;
+  }
+  
+  .cartCard {
+    border-bottom: solid lightgrey 1px;
+    padding: 10px 17px;
+    /* border-radius: 20px; */
+    display: flex;
+    min-height: 20vh;
+    max-height: 20vw;
+    gap: 5%;
+  }
+
+  .cartCard > :nth-child(1){
+    width: 30%;
+  }
+
+  .cartCard > :nth-child(2) {
+    width: 45%;
+    font-family: WorkSans;
+  }
+  .cartCard > :nth-child(3) {
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
+  }
+
+
+  .cartCardImg {
+    width: 100%;
+    height: 100%;
+
+  }
+
+  .cartCardImg > img {
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .nameT, .priceT {
+    font-size: 15px;
+    font-family: WorkSans;
+    color: black;
+  }
+  
+  .qty, .colorT, .sizeT {
+    font-family: WorkSans;
+    font-size: 12px;
+  }
+
+  .sub-info {
+    display: flex;
+    gap: 4px;
+  }
+
+  .dlt {
+    font-family: WorkSans;
+    padding: 3px 6px;
+    color: orange;   
+    font-size: 12px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+  }
+
+  .summary > *{
+    font-family: WorkSans;
+  }
+
+  .summary {
+    display: flex;
+    gap: 10%;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .total {
+    font-size: 20px;
+    font-weight: 600;
+  }
+
+  .checkout {
+    margin-right: 2%;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 10px 20px;
+    /* background-color: rgb(181, 231, 169); */
+    background-color: white;
+    border: solid orange 1px;
+    color: orange;
+    cursor: pointer;
+  }
+
+  .checkout:hover {
+    background-color: orange;
+    color: white;
+  }
+
+  .clsBtn {
+    display: none;
+    background-color: white;
+    border-radius: 30px;
+    width: 30px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
+
+
+  .cartTop {
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+    padding-left: 20px;
+  }
+
+  .cartHdr {
+    margin-left: 30px;
+    font-family: WorkSans;
+    font-size: 22px;
+    text-align: center;
+    justify-self: end;
+    padding-bottom: 4px;
+  }
+
+  @media (max-width: 650px) {
+    .modal {
+        width: 100vw;
+        padding: 0;
+        height: 100vh;
+    }
+
+    .clsBtn {
+        display: block;
+    }
+  }
+
+
+  .nothing {
+    font-family: WorkSans;
+    text-align: center;
+    padding-top: 38vh;
+    font-size: 15px;
+  }
