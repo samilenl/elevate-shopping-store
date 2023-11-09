@@ -35,7 +35,7 @@ HTML5
 To set up and work on this project on your own, please follow these steps:
 Clone the project by running the following command in your terminal:
 
-   `git clone https://github.com/renchester/eyewear-store.git`
+   `git clone https://github.com/samilenl/elevate-shopping-store.git`
 
    
 After cloning the project, install the necessary dependencies by running:
